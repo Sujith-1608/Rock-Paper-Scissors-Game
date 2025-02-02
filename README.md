@@ -13,7 +13,7 @@ A simple and interactive **Rock-Paper-Scissors** game built using **HTML, CSS, a
 - Real-time game result display
 
 ## 📷 Screenshot
-![Game Screenshot](images/Screenshot1)
+![Game Screenshot](images/Screenshot1.png)
 
 ## 🛠️ Technologies Used
 - **HTML** for structure

@@ -4,13 +4,16 @@
 A simple and interactive **Rock-Paper-Scissors** game built using **HTML, CSS, and JavaScript**. Play against the computer and test your luck! 🪨📜✂️
 
 ## 🌍 Live Demo
-[Play the Game Here]([https://sujith-1608.github.io/Rock-Paper-Scissors-Game/])
+[Play the Game Here](https://sujith-1608.github.io/Rock-Paper-Scissors-Game/)
 
 ## 🚀 Features
 - User vs Computer gameplay
 - Randomized computer choices
 - Simple UI with a clean design
 - Real-time game result display
+
+## 📷 Screenshot
+![Game Screenshot](images/Screenshot1)
 
 ## 🛠️ Technologies Used
 - **HTML** for structure
@@ -21,9 +24,9 @@ A simple and interactive **Rock-Paper-Scissors** game built using **HTML, CSS, a
 1. Choose **Rock**, **Paper**, or **Scissors**.
 2. The computer randomly selects one of the three.
 3. The result is displayed on the screen:
-   - 🏆 **Win** – Your choice beats the computer’s.
-   - ❌ **Lose** – Computer’s choice beats yours.
-   - 🔄 **Draw** – Both choices are the same.
+   - 🎉 **Win** – Your choice beats the computer’s.
+   - 😐 **Lose** – Computer’s choice beats yours.
+   - 😞 **Draw** – Both choices are the same.
 
 ## 📥 Installation & Usage
 1. Clone the repository:
